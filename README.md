@@ -12,7 +12,7 @@ Key features :
 ## II - Building project
 
 A simple `make` at the root of the project should be enough to get the static
-(i.e. `libiniparser.a`) and shared (i.e. `libiniparser.so.0`) libraries compiled.
+(i.e. `libinip.a`) library compiled.
 
 ## III - License
 
